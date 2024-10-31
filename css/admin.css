@@ -1,0 +1,14 @@
+.sfhg-list{
+    list-style-type: square;
+    margin-left:20px;
+}
+
+.sfhg-input{
+    width:100%;
+    max-width:25em;
+    resize: none;
+}
+
+.sfhg-postbox{
+    width:100%;
+}

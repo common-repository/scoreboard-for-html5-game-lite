@@ -1,0 +1,677 @@
+# Copyright (C) 2022 Scoreboard for HTML5 Games Lite
+# This file is distributed under the same license as the Scoreboard for HTML5 Games Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scoreboard for HTML5 Games Lite 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/scoreboard-for-html5-game-lite\n"
+"POT-Creation-Date: 2022-08-23 01:08:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin.php:18 scoreboard-for-html5-game-lite.php:202
+#: scoreboard-for-html5-game-lite.php:330
+msgid "Scoreboard for HTML5 Games"
+msgstr ""
+
+#. translators:  %1$s %2$s: The a tag.
+
+#: includes/admin.php:25
+msgid "Scoreboard for HTML5 Games is a WordPress Plugin to embed %1$sHTML5 Games%2$s with scoreboard, user can submit score and view top 10 leaderboard."
+msgstr ""
+
+#: includes/admin.php:26
+msgid "Admin can view and filter player top rank scores, user score can be excluded by email/phone and scores can be control by range."
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/admin.php:31
+msgid "Get Scoreboard for HTML5 Games (Full Version) %1$shere%2$s."
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/admin.php:33
+msgid "All the HTML5 Games can be bought %1$shere%2$s"
+msgstr ""
+
+#: includes/admin.php:37 includes/quickstart.php:7
+#: scoreboard-for-html5-game-lite.php:203
+#: scoreboard-for-html5-game-lite.php:358
+msgid "Quick Start"
+msgstr ""
+
+#: includes/admin.php:38 includes/game.php:252
+#: scoreboard-for-html5-game-lite.php:204
+#: scoreboard-for-html5-game-lite.php:332
+#: scoreboard-for-html5-game-lite.php:334
+#: scoreboard-for-html5-game-lite.php:359
+msgid "Games"
+msgstr ""
+
+#: includes/admin.php:39 includes/admin.php:73 includes/quickstart.php:172
+#: scoreboard-for-html5-game-lite.php:202
+#: scoreboard-for-html5-game-lite.php:203
+#: scoreboard-for-html5-game-lite.php:205
+#: scoreboard-for-html5-game-lite.php:360
+msgid "Scoreboard"
+msgstr ""
+
+#: includes/admin.php:40 includes/admin.php:63 includes/quickstart.php:178
+#: scoreboard-for-html5-game-lite.php:206
+#: scoreboard-for-html5-game-lite.php:361
+msgid "Filters"
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/admin.php:64 includes/admin.php:74 includes/quickstart.php:59
+#: includes/quickstart.php:169
+msgid "These features work only with Scoreboard for HTML5 Game (Full Version) %1$shere%2$s."
+msgstr ""
+
+#: includes/form-game.php:5
+msgid "DataTable : "
+msgstr ""
+
+#: includes/form-game.php:5
+msgid "(alphabet only)"
+msgstr ""
+
+#: includes/form-game.php:11
+msgid "DataTable Score Display : "
+msgstr ""
+
+#: includes/form-game.php:14
+msgid "Point"
+msgstr ""
+
+#: includes/form-game.php:15
+msgid "Timer"
+msgstr ""
+
+#: includes/form-game.php:20
+msgid "Scoreboard Settings : "
+msgstr ""
+
+#: includes/form-game.php:20
+msgid "(required)"
+msgstr ""
+
+#: includes/game.php:17 includes/game.php:56 includes/game.php:156
+#: includes/game.php:204 includes/game.php:235
+msgid "Update security violated"
+msgstr ""
+
+#: includes/game.php:23
+msgid "Game folder deleted."
+msgstr ""
+
+#: includes/game.php:72
+msgid "Sorry, your game file is too large."
+msgstr ""
+
+#: includes/game.php:77
+msgid "Sorry, only ZIP file are allowed."
+msgstr ""
+
+#: includes/game.php:82
+msgid "Sorry, your file was not uploaded."
+msgstr ""
+
+#: includes/game.php:93
+msgid "Sorry, there was an error uploading your file."
+msgstr ""
+
+#. translators: %s: The path location.
+
+#: includes/game.php:132
+msgid "Game uploaded. Path: %s"
+msgstr ""
+
+#: includes/game.php:134
+msgid "No index.html file on root!"
+msgstr ""
+
+#: includes/game.php:166
+msgid "Table name exist, please try other name!"
+msgstr ""
+
+#: includes/game.php:191
+msgid "Game Added."
+msgstr ""
+
+#: includes/game.php:223
+msgid "Game Updated."
+msgstr ""
+
+#: includes/game.php:246
+msgid "Game Deleted."
+msgstr ""
+
+#: includes/game.php:265
+msgid "Select DataTable"
+msgstr ""
+
+#: includes/game.php:299 includes/game.php:334
+msgid "Add Game"
+msgstr ""
+
+#: includes/game.php:312
+msgid "New game settings"
+msgstr ""
+
+#: includes/game.php:317
+msgid "Current game settings"
+msgstr ""
+
+#: includes/game.php:335
+msgid "Cancel"
+msgstr ""
+
+#: includes/game.php:351
+msgid "Update Game"
+msgstr ""
+
+#: includes/game.php:391
+msgid "Game Directory :"
+msgstr ""
+
+#: includes/game.php:398
+msgid "Delete Game Folder"
+msgstr ""
+
+#: includes/game.php:399
+msgid "Load Game"
+msgstr ""
+
+#: includes/game.php:407
+msgid "Upload game : "
+msgstr ""
+
+#: includes/game.php:414
+msgid "Upload Game"
+msgstr ""
+
+#: includes/game.php:426
+msgid "Delete this game setting and drop game table in a database."
+msgstr ""
+
+#: includes/game.php:427
+msgid "All user records will be remove."
+msgstr ""
+
+#: includes/game.php:429
+msgid "Delete Game"
+msgstr ""
+
+#: includes/quickstart.php:9
+msgid "A) Game Installation"
+msgstr ""
+
+#: includes/quickstart.php:10
+msgid "1) HTML5 Game"
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/quickstart.php:15
+msgid "Before begin you must have the HTML5 Games that is compatible with this plugin from %1$shere%2$s."
+msgstr ""
+
+#: includes/quickstart.php:16
+msgid "2) Copy and integrate the scoreboard files"
+msgstr ""
+
+#: includes/quickstart.php:17
+msgid "Please refer to documentation for the steps and integration files"
+msgstr ""
+
+#: includes/quickstart.php:18
+msgid "*Skip this steps if you just want to embed the game without scoreboard"
+msgstr ""
+
+#: includes/quickstart.php:20
+msgid "3) Upload game"
+msgstr ""
+
+#. translators: %1$s %2$s: The strong tag.
+
+#: includes/quickstart.php:21
+msgid "Go to plugin settings %1$sGames%2$s tab to add new game, once added you can upload the game file from upload field"
+msgstr ""
+
+#: includes/quickstart.php:25
+msgid "Or you can manually upload game files through ftp or file manager:"
+msgstr ""
+
+#. translators: %1$s %2$s %3$s: The strong tag with game directory.
+
+#: includes/quickstart.php:26
+msgid "Create a new folder %1$s%2$s%3$s in root directoy and upload all games in the folder, your game folder name must be the same name with DataTable"
+msgstr ""
+
+#: includes/quickstart.php:29
+msgid "4) Embed game"
+msgstr ""
+
+#: includes/quickstart.php:30
+msgid "Add shortcode to page or post content to embed the game."
+msgstr ""
+
+#: includes/quickstart.php:35
+msgid "Examples if you want to embed with different settings."
+msgstr ""
+
+#: includes/quickstart.php:42
+msgid "Below is the complete attributes of the shortcode"
+msgstr ""
+
+#: includes/quickstart.php:44
+msgid "directory of the game"
+msgstr ""
+
+#: includes/quickstart.php:45
+msgid "aspect ratio class for the game frame"
+msgstr ""
+
+#: includes/quickstart.php:47
+msgid "landscape mode"
+msgstr ""
+
+#: includes/quickstart.php:48
+msgid "landscape mode older version"
+msgstr ""
+
+#: includes/quickstart.php:49
+msgid "portrait mode"
+msgstr ""
+
+#: includes/quickstart.php:50
+msgid "add multiple mode if the game support both, it will display randomly"
+msgstr ""
+
+#: includes/quickstart.php:53
+msgid "custom style for container, set padding-top percent for different aspect ratio"
+msgstr ""
+
+#: includes/quickstart.php:54
+msgid "true or false to activate fullscreen mode"
+msgstr ""
+
+#: includes/quickstart.php:58
+msgid "B) Game Settings"
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/quickstart.php:60
+msgid "Go to pluign settings and click on %1$sGames%2$s tab to add or manage games"
+msgstr ""
+
+#: includes/quickstart.php:64
+msgid "DataTable: unique game directory"
+msgstr ""
+
+#: includes/quickstart.php:65
+msgid "DataTable Score Display: table score display type"
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/quickstart.php:66
+msgid "Scoreboard Settings: this will replace the %1$sscoreboardSettings%2$s in scoreboard integration files"
+msgstr ""
+
+#: includes/quickstart.php:69
+msgid "Below is the explanation of the settings"
+msgstr ""
+
+#: includes/quickstart.php:72
+msgid "toggle submit and scoreboard button"
+msgstr ""
+
+#: includes/quickstart.php:73
+msgid "scoreboard button positon"
+msgstr ""
+
+#: includes/quickstart.php:75
+msgid "\"left\" or \"right\" side"
+msgstr ""
+
+#: includes/quickstart.php:76
+msgid "offset x y position"
+msgstr ""
+
+#: includes/quickstart.php:79
+msgid "save button position"
+msgstr ""
+
+#: includes/quickstart.php:81
+msgid "x position"
+msgstr ""
+
+#: includes/quickstart.php:82
+msgid "y position"
+msgstr ""
+
+#: includes/quickstart.php:83
+msgid "position for portrait mode"
+msgstr ""
+
+#: includes/quickstart.php:86
+msgid "text for scoreboard title"
+msgstr ""
+
+#: includes/quickstart.php:87
+msgid "scoreboard ranking list"
+msgstr ""
+
+#: includes/quickstart.php:88
+msgid "total score pages, .e.g. 2 for 20 listing"
+msgstr ""
+
+#: includes/quickstart.php:89
+msgid "text for scoreboard next button"
+msgstr ""
+
+#: includes/quickstart.php:90
+msgid "text for scoreboard prev button"
+msgstr ""
+
+#: includes/quickstart.php:91
+msgid "user ID type \"email\" or \"mobile\" field"
+msgstr ""
+
+#: includes/quickstart.php:92
+msgid "mobile format validation"
+msgstr ""
+
+#: includes/quickstart.php:94
+msgid "input match format"
+msgstr ""
+
+#: includes/quickstart.php:95
+msgid "input min length"
+msgstr ""
+
+#: includes/quickstart.php:96
+msgid "input max length"
+msgstr ""
+
+#: includes/quickstart.php:99
+msgid "enable to display game stage/level in scoreboard list"
+msgstr ""
+
+#: includes/quickstart.php:100
+msgid "reverse scoreboard list in descending"
+msgstr ""
+
+#: includes/quickstart.php:101
+msgid "return score in daily, weekly or monthly, empty string for all time (daily, weekly, monthly)"
+msgstr ""
+
+#: includes/quickstart.php:102
+msgid "enable for to fixed some old games layout issue"
+msgstr ""
+
+#: includes/quickstart.php:103 includes/quickstart.php:110
+msgid "score list table"
+msgstr ""
+
+#: includes/quickstart.php:105 includes/quickstart.php:112
+msgid "table name"
+msgstr ""
+
+#: includes/quickstart.php:106 includes/quickstart.php:113
+msgid "position x"
+msgstr ""
+
+#: includes/quickstart.php:107 includes/quickstart.php:114
+#: includes/quickstart.php:121
+msgid "text alignment"
+msgstr ""
+
+#: includes/quickstart.php:117
+msgid "dropdown settings"
+msgstr ""
+
+#: includes/quickstart.php:119
+msgid "default select text"
+msgstr ""
+
+#: includes/quickstart.php:120
+msgid "background color"
+msgstr ""
+
+#: includes/quickstart.php:122
+msgid "stroke"
+msgstr ""
+
+#: includes/quickstart.php:123
+msgid "stroke color"
+msgstr ""
+
+#: includes/quickstart.php:124
+msgid "height"
+msgstr ""
+
+#: includes/quickstart.php:125
+msgid "margin"
+msgstr ""
+
+#: includes/quickstart.php:126
+msgid "offset position x"
+msgstr ""
+
+#: includes/quickstart.php:127 includes/quickstart.php:138
+msgid "offset position y"
+msgstr ""
+
+#: includes/quickstart.php:128
+msgid "truncating long text with ..."
+msgstr ""
+
+#: includes/quickstart.php:129
+msgid "number lists to show scrollbar"
+msgstr ""
+
+#: includes/quickstart.php:130
+msgid "scrollbar width"
+msgstr ""
+
+#: includes/quickstart.php:131
+msgid "scrollbar color"
+msgstr ""
+
+#: includes/quickstart.php:132
+msgid "scrollbar background color"
+msgstr ""
+
+#: includes/quickstart.php:135
+msgid "loader settings"
+msgstr ""
+
+#: includes/quickstart.php:137
+msgid "loader text"
+msgstr ""
+
+#: includes/quickstart.php:139
+msgid "background"
+msgstr ""
+
+#: includes/quickstart.php:140
+msgid "background alpha"
+msgstr ""
+
+#: includes/quickstart.php:141
+msgid "background width"
+msgstr ""
+
+#: includes/quickstart.php:142
+msgid "background height"
+msgstr ""
+
+#: includes/quickstart.php:145
+msgid "notification settings (to show previous best score)"
+msgstr ""
+
+#: includes/quickstart.php:147
+msgid "option to show new bset score notification"
+msgstr ""
+
+#: includes/quickstart.php:148
+msgid "notification color"
+msgstr ""
+
+#: includes/quickstart.php:149
+msgid "notification text"
+msgstr ""
+
+#: includes/quickstart.php:150
+msgid "notification radius"
+msgstr ""
+
+#: includes/quickstart.php:151
+msgid "notification stroke"
+msgstr ""
+
+#: includes/quickstart.php:152
+msgid "notification stroke color"
+msgstr ""
+
+#: includes/quickstart.php:153
+msgid "notification width"
+msgstr ""
+
+#: includes/quickstart.php:154
+msgid "notification height"
+msgstr ""
+
+#: includes/quickstart.php:155
+msgid "notification offset x"
+msgstr ""
+
+#: includes/quickstart.php:156
+msgid "notification offset y"
+msgstr ""
+
+#: includes/quickstart.php:157
+msgid "time to hide notification"
+msgstr ""
+
+#: includes/quickstart.php:158
+msgid "best score message"
+msgstr ""
+
+#: includes/quickstart.php:159
+msgid "new best score message"
+msgstr ""
+
+#: includes/quickstart.php:168
+msgid "C) Scoreboard & Filters"
+msgstr ""
+
+#: includes/quickstart.php:170
+msgid "In the plugin settings you can view all user scores and set filters for user or score, the game scoreboard top rank will display user score with filtering."
+msgstr ""
+
+#: includes/quickstart.php:174
+msgid "Click on Scoreboard tab to view all user scores."
+msgstr ""
+
+#: includes/quickstart.php:180
+msgid "Click on Filters tab to view all filters."
+msgstr ""
+
+#: includes/quickstart.php:184
+msgid "Users"
+msgstr ""
+
+#: includes/quickstart.php:186
+msgid "To exclude a user from scoreboard, just enter the user (email/phone) for each game."
+msgstr ""
+
+#: includes/quickstart.php:190
+msgid "Scores"
+msgstr ""
+
+#: includes/quickstart.php:192
+msgid "To control the scoreboard score list, just enter the score range for each game."
+msgstr ""
+
+#: includes/quickstart.php:196
+msgid "Check Filtering"
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/quickstart.php:198
+msgid "Once filter is set, you can check filters column at scoreboard panel, all records should be %1$sValid%2$s except for filtering that is in %3$sSpam, Range%4$s."
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/quickstart.php:199
+msgid "When user click scoreboard button to view top rank in HTML5 Game, only %1$sValid%2$s score lists will return."
+msgstr ""
+
+#: includes/quickstart.php:203
+msgid "Level or Category"
+msgstr ""
+
+#. translators: %1$s %2$s: The a tag.
+
+#: includes/quickstart.php:205
+msgid "Some HTML5 Games come with level or category, you will need to add multiple filters for different level/category on both user or score filters. Sample below the user will only exclude from %1$sIQ Test%2$s category, but the user score will still display for other category."
+msgstr ""
+
+#: scoreboard-for-html5-game-lite.php:299
+msgid "Scoreboard for HTML5 Games plugin v"
+msgstr ""
+
+#: scoreboard-for-html5-game-lite.php:332
+#: scoreboard-for-html5-game-lite.php:334
+msgid "Important:"
+msgstr ""
+
+#: scoreboard-for-html5-game-lite.php:332
+#: scoreboard-for-html5-game-lite.php:334
+msgid "Please update the new version"
+msgstr ""
+
+#: scoreboard-for-html5-game-lite.php:332
+#: scoreboard-for-html5-game-lite.php:334
+msgid "Hide Notice"
+msgstr ""
+
+#: scoreboard-for-html5-game-lite.php:378
+msgid "Full Version"
+msgstr ""
+
+#: scoreboard-for-html5-game-lite.php:379
+msgid "More Games"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Scoreboard for HTML5 Games Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://codecanyon.net/item/scoreboard-for-html5-games/36706894"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Scoreboard for HTML5 Games is a WordPress Plugin to embed HTML5 Games with scoreboard, user can submit score and view top 10 leaderboard. Admin can login through WordPress Admin Dashboard to view and filter player top rank scores, user score can be excluded by email/phone and scores can be control by range."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "demonisblack"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/demonisblack"
+msgstr ""
